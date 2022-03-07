@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "???"
+    "url": "https://github.com/Steffannj/au2-bs5-toaster.git"
   },
   "main": "dist/index.js",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "aurelia": "latest",
     "bootstrap": "^5.1.3"
